@@ -1,0 +1,31 @@
+@font-face {
+    font-family: alata;
+    src: url(fonts/Alata-Regular.ttf);
+}
+
+body{background-color:#FFFFFF ;}
+
+body{font-family: alata ; color: #303030; }
+
+
+a:link{text-decoration: none; color: #ffffff;  }
+
+.enter{border: 0.80px solid #ffffff;  min-width: 300px; min-height: 35px; 
+    color: #FFFFFF; }
+
+body{background-image: url(images/main.jpg); background-repeat: no-repeat;
+    background-position: center; background-attachment: fixed; background-size: cover;         }
+
+.enter{position: absolute; top: 66%; left: 36%; }
+
+p > a{ font-family: alata; color: #FFFFFF;
+   position: absolute; left: 46%; top: 20%;  }
+
+
+.pak{  border: 0.80px solid #ffffff;  min-width: 300px; min-height: 35px; 
+    color: #FFFFFF; }
+
+    .pak{  position: absolute; top: 58%; left: 36%; }
+
+
+    .main{ color: #FFFFFF; font-family: alata; position: absolute; left: 46%; top: 56.88%; }

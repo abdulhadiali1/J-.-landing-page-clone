@@ -1,0 +1,252 @@
+@font-face {
+    font-family: alata;
+    src: url(fonts/Alata-Regular.ttf);
+}
+
+body {
+    overflow-x: hidden; /* Hide scrollbars */
+  }
+
+*{margin: 0; padding: 0;}
+
+
+.logo{margin-left: 50%; margin-top: 2%; display: block; margin-bottom: 3%;  }
+
+.new{font-family: alata; display: inline-block; margin-left: 7% ; font-size: small;   }
+.new:link{text-decoration: none;}
+.new:visited{color: black;}
+
+.cast{font-family: alata; display: inline-block; font-size: small; margin-left: 22px ; }
+.cast:link{text-decoration: none;}
+.cast:visited{color: black;}
+
+.women{font-family: alata; display: inline-block; font-size: small;margin-left: 33px }
+.women:link{text-decoration: none;}
+.women:visited{color: black;}
+
+.men{font-family: alata; display: inline-block; font-size: small;margin-left: 43px }
+.men:link{text-decoration: none;}
+.men:visited{color: black;}
+
+.boy{font-family: alata; display: inline-block;font-size: small;margin-left: 53px }
+.boy:link{text-decoration: none;}
+.boy:visited{color: black;}
+
+.frag{font-family: alata; display: inline-block;font-size: small;margin-left: 63px }
+.frag:link{text-decoration: none;}
+.frag:visited{color: black;}
+
+.makeup{font-family: alata; display: inline-block;font-size: small;margin-left: 73px }
+.makeup:link{text-decoration: none;}
+.makeup:visited{color: black;}
+
+.cata{font-family: alata; display: inline-block;font-size: small;margin-left: 83px }
+.cata:link{text-decoration: none;}
+.cata:visited{color: black;}
+
+.sale{font-family: alata; font-size: small;margin-left: 93px }
+.sale:link{text-decoration: none;}
+.sale:visited{color: black;}
+
+
+.banner{margin-top: 50px;}
+
+
+.unstitch{ position: relative;    left: 22%; top: 76px; }  
+
+
+.un{font-family: alata; font-size: larger; letter-spacing: 2px; 
+    
+     position: relative; left: 22%; top: 70px;   }
+
+
+
+.shop{font-family: alata; letter-spacing: 2px; position: relative; bottom: 173px; left: 22%; }
+.shop:link{text-decoration: none;}
+.shop:visited{color: black;}
+
+
+
+
+
+
+.kurti2{ position: relative; left: 58.55%; bottom: 610px; }
+
+.kurti{font-family: alata; letter-spacing: 2px; color: black;
+    
+       position: relative; left: 66.54% ; bottom:610px ; font-size: larger;  }
+
+
+
+.kurti3{font-family: alata; letter-spacing: 2px;
+    
+        position: relative; bottom: 850px; left: 66.54%;  }
+
+.kurti3:link{text-decoration: none;}
+.kurti3:visited{color: black;}
+
+
+
+.stit{position: relative; bottom: 570px;  left: 59%;  }
+
+
+.stit1{font-family: alata; letter-spacing: 2px; margin-left: 66.60% ;
+    
+    position: relative; bottom: 570px;  }
+
+.stit2:link{text-decoration: none; position: relative;
+     left: 66.60%; bottom: 1200px; font-family: alata; letter-spacing: 2px; }
+.stit2:visited{color: black;}
+
+
+.kameez{position: relative; bottom: 400px; left: 35%; }
+
+.kameez1{font-family: alata; letter-spacing: 2px; margin-left: 42.50% ;
+    
+    position: relative; bottom: 400px;  }
+
+.kameez2:link{text-decoration: none; position: relative;
+     left: 42.50%; bottom: 400px; font-family: alata; letter-spacing: 2px; }
+.kameez2:visited{color: black;}
+
+
+
+
+
+.kurta{position: relative; right: 26%; bottom: 793px; }
+
+.kurta1{font-family: alata; letter-spacing: 2px; margin-left: 23.50% ;
+    
+    position: relative; bottom: 843px;  }
+
+.kurta2:link{text-decoration: none; position: relative;
+     left: 23.50%; bottom: 845px; font-family: alata; letter-spacing: 2px; }
+.kurta2:visited{color: black;}
+
+
+
+
+
+.waist{position: relative; right: 43.44%; bottom: 397px ; }
+
+.waist1{font-family: alata; letter-spacing: 2px; margin-left: 23.50% ;
+    
+    position: relative; bottom: 490px;  }
+
+.waist2:link{text-decoration: none; position: relative;
+     left: 23.50%; bottom: 912px; font-family: alata; letter-spacing: 2px; }
+.waist2:visited{color: black;}
+
+
+
+
+.zara{position: relative; left: 6%; bottom: 320px;  }
+
+.zara{ border: 70px solid #FFF8EE; }
+
+
+.groom{position: relative; left: 12.55%; bottom: 150px;  }
+
+.groom{ border: 70px solid #FFF8EE; }
+
+
+
+.first{font-family: alata; color: black; font-size: small; letter-spacing: 1px; 
+
+       position: relative; left: 50%; }
+
+
+
+.mid{font-family: alata; color: black; font-size: 64px;   letter-spacing: 2px; 
+
+    position: relative; left: 40%; top: 10px;  }
+
+
+
+    .teen{position: relative;top: 6px; left: 17% ;  }
+
+
+    .tboy{position: relative; left: 19%; bottom: 150px ;         }
+
+
+.kgirl{position: relative; left: 19% ; bottom:160px ; }
+
+
+
+.kboy{position: relative; left: 18.70%; bottom: 167px;      }
+
+
+
+.col{position: relative; left: 61%; bottom: 130px; font-family: alata;  
+    
+    font-size: medium; line-height:5px ; line-height: 28px;   }
+
+
+.and{position: relative; left: 59%; bottom: 130px; font-family: alata; 
+    
+    font-size: medium; line-height: 28px; }
+
+
+    .with{position: relative; left: 57%; bottom: 130px; font-family: alata;
+    
+    font-size: medium;  line-height: 28px;  }
+
+
+.be{border: 2px solid#232323 ; background-color: #232323; width: 900px; height: 200px;
+
+    position: relative; left: 16%;  }
+
+
+    .the{font-family: alata; color: white; position: relative; left: 50%; bottom: 180px; 
+        
+        font-size:16px; line-height: 35px; }
+
+
+    .to{font-family: alata; color: white; position: relative; left: 45%; bottom: 180px;
+    
+        font-size: 12px;   } 
+
+     .do{font-family: alata;font-size: 12px;  color: white; position: relative; left: 50%;  }
+
+
+        .email{ font-family: alata; 
+            
+            position: relative; left: 45%; bottom: 180px; }
+
+            .that{font-family: alata; color: white; 
+            
+                position: relative; left: 58%; bottom: 205px; border: 2px solid white ; 
+                
+                width: 60px; }
+
+
+.help{position: relative; left: 17%; bottom: 95px; letter-spacing: 2px; line-height: 35px;  }
+
+.need{font-family: alata ; font-size: 13px; line-height: 60px; font-size: medium; }
+
+.mon{font-family: alata; font-size: 11px;  line-height: 30px;}
+.es{font-family: alata; font-size: 9px; line-height: 30px; }
+
+
+
+.cus{position: relative;  left: 50%; bottom: 209px; ;letter-spacing: 2px; }
+
+.service{font-family: alata ; font-size: 13px; line-height: 30px; font-size: medium; line-height: 60px; }
+
+.c{font-family: alata; font-size: 11px; }
+.d{font-family: alata; font-size: 11px; }
+.r{font-family: alata; font-size: 11px; }
+.t{font-family: alata; font-size: 11px; }
+.p{font-family: alata; font-size: 11px; }
+.track{font-family: alata; font-size: 11px; }
+.g{font-family: alata; font-size: 11px; }
+
+
+
+
+.third{position: relative;  left: 80%; bottom: 367px; letter-spacing: 2px; }
+
+.com{font-family: alata; font-size: 11px; font-size: medium; line-height: 60px; }
+.us{font-family: alata; font-size: 11px;}
+.car{font-family: alata; font-size: 11px;}
+.store{font-family: alata; font-size: 11px;}
